@@ -1,4 +1,4 @@
-from sklearn.linear_model import Line#arRegression #1
+from sklearn.linear_model import Line#arRegression #
 import numpy as np
 
 X = np.array([[1], [2], [3]])
